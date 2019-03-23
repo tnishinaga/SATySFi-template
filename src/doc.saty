@@ -1,0 +1,17 @@
+% -*- coding: utf-8 -*-
+@require: stdja
+
+
+% title
+StdJa.document (|
+  title = {\SATySFi;サンプル};
+  author = {Toshifumi NISHINAGA};
+  show-title = true;
+  show-toc = false;
+|) '<
+    +section {節} <
+        +p {
+            サンプルテキスト
+        }
+    >
+>

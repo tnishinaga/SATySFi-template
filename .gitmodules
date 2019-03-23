@@ -1,0 +1,3 @@
+[submodule "SATySFi-docker"]
+	path = SATySFi-docker
+	url = https://github.com/tnishinaga/SATySFi-docker
